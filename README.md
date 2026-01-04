@@ -1,8 +1,8 @@
-# RapidFire - Auto Key Presser
+# Auto Fire - Auto Key Presser
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/sinha-19/RapidFire)](https://github.com/sinha-19/RapidFire/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/sinha-19/RapidFire)](https://github.com/sinha-19/RapidFire/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/sinha-19/AutoFire)](https://github.com/sinha-19/AutoFire/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/sinha-19/AutoFire)](https://github.com/sinha-19/AutoFire/commits/main)
 
 ![autofire](https://github.com/user-attachments/assets/5130e29f-392d-4e2a-a56d-571094203bd8)
 
@@ -10,7 +10,7 @@ A lightweight utility for automatically pressing keys at regular intervals.
 
 ## Description
 
-RapidFire is a simple auto key-press utility that simulates continuous key presses after you've pressed a key once. It's useful for scenarios where repeated key presses are needed, such as in games, form filling, or text repetition.
+Auto Fire is a simple auto key-press utility that simulates continuous key presses after you've pressed a key once. It's useful for scenarios where repeated key presses are needed, such as in games, form filling, or text repetition.
 
 ## Features
 
@@ -32,8 +32,8 @@ RapidFire is a simple auto key-press utility that simulates continuous key press
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sinha-19/RapidFire.git
-cd RapidFire
+git clone https://github.com/sinha-19/AutoFire.git
+cd AutoFire
 ```
 
 2. Install dependencies:
@@ -153,7 +153,7 @@ This project is licensed under the MPL-2.0 license - see the [LICENSE](LICENSE) 
 
 **Saket Kumar Sinha**
 - GitHub: [@sinha-19](https://github.com/sinha-19)
-- Repository: [RapidFire](https://github.com/sinha-19/RapidFire)
+- Repository: [Auto Fire](https://github.com/sinha-19/AutoFire)
 
 ## Acknowledgments
 

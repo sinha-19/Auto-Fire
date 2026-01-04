@@ -10,7 +10,7 @@ A lightweight utility for automatically pressing keys at regular intervals.
 
 ## Description
 
-Auto Fire is a simple auto key-press utility that simulates continuous key presses after you've pressed a key once. It's useful for scenarios where repeated key presses are needed, such as in games, form filling, or text repetition.
+Rapid Fire is a simple auto key-press utility that simulates continuous key presses after you've pressed a key once. It's useful for scenarios where repeated key presses are needed, such as in games, form filling, or text repetition.
 
 ## Features
 

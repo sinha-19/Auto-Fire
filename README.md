@@ -1,8 +1,8 @@
 # Auto Fire - Auto Key Presser
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/sinha-19/AutoFire)](https://github.com/sinha-19/AutoFire/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/sinha-19/AutoFire)](https://github.com/sinha-19/AutoFire/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/sinha-19/Auto-Fire)](https://github.com/sinha-19/Auto-Fire/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/sinha-19/Auto-Fire)](https://github.com/sinha-19/Auto-Fire/commits/main)
 
 ![autofire](https://github.com/user-attachments/assets/5130e29f-392d-4e2a-a56d-571094203bd8)
 
@@ -32,8 +32,8 @@ Auto Fire is a simple auto key-press utility that simulates continuous key press
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sinha-19/AutoFire.git
-cd AutoFire
+git clone https://github.com/sinha-19/Auto-Fire.git
+cd Auto-Fire
 ```
 
 2. Install dependencies:
@@ -153,7 +153,7 @@ This project is licensed under the MPL-2.0 license - see the [LICENSE](LICENSE) 
 
 **Saket Kumar Sinha**
 - GitHub: [@sinha-19](https://github.com/sinha-19)
-- Repository: [Auto Fire](https://github.com/sinha-19/AutoFire)
+- Repository: [Auto Fire](https://github.com/sinha-19/Auto-Fire)
 
 ## Acknowledgments
 

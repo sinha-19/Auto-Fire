@@ -1,6 +1,6 @@
 # Auto Fire - Auto Key Presser
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MPL-2.0-yellow.svg)](https://opensource.org/licenses/MPL-2.0)
 [![GitHub issues](https://img.shields.io/github/issues/sinha-19/Auto-Fire)](https://github.com/sinha-19/Auto-Fire/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/sinha-19/Auto-Fire)](https://github.com/sinha-19/Auto-Fire/commits/main)
 
